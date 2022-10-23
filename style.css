@@ -1,0 +1,20 @@
+body { margin: 0;}
+
+ul{
+    list-style: none;
+}
+
+.left-side{
+    background-color: rgb(192, 176, 255);
+
+    padding: 1em;
+
+}
+
+img{
+    object-fit: cover;
+}
+
+/* .add-room{
+
+} */
